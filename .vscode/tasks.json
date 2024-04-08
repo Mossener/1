@@ -10,6 +10,7 @@
                 "${file}",
                 "-I",
                 "C:\\c++\\include",
+                "C:\\c++\\execute\\**",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
